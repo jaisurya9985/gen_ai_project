@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 from supabase import create_client
+from fastapi.middleware.cors import CORSMiddleware
 
 
 # --------------------------------------------------
@@ -21,6 +22,15 @@ load_dotenv(ROOT / "backend" / ".env")
 load_dotenv()
 
 app = FastAPI(title="Yoga and Fitness RAG API")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://gen-ai-project-jet.vercel.app"
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 supabase = create_client(
     os.getenv("SUPABASE_URL"),
