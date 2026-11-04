@@ -171,7 +171,7 @@ export default function Dashboard() {
             return (
               <Link
                 key={goal.title}
-                to="/plan-generator"
+                to={`/plan-generator?goal=${encodeURIComponent(goal.title)}`}
                 className="group rounded-2xl border border-white/10 bg-[#151519] p-5 transition hover:-translate-y-1 hover:border-lime-400/40 hover:bg-[#1c2019]"
               >
                 <div className="mb-5 flex h-11 w-11 items-center justify-center rounded-xl bg-lime-400/10 transition group-hover:bg-lime-400/20">
