@@ -13,6 +13,7 @@ import {
   Flame,
 } from "lucide-react";
 import { generatePlan } from "../services/api";
+import { useSearchParams } from "react-router-dom";
 
 export default function PlanGenerator() {
   const [form, setForm] = useState({
