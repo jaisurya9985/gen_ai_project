@@ -29,3 +29,21 @@ body {
   background: #202024;
   color: white;
 }
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: #a3e635;
+  color: #09090b;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
