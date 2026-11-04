@@ -1,5 +1,4 @@
-
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   Sparkles,
   Clock,
@@ -16,14 +15,25 @@ import { generatePlan } from "../services/api";
 import { useSearchParams } from "react-router-dom";
 
 export default function PlanGenerator() {
+  const [searchParams] = useSearchParams();
+  const selectedGoal = searchParams.get("goal") || "Build muscle";
+
   const [form, setForm] = useState({
-    goal: "Build muscle",
+    goal: selectedGoal,
     experience: "beginner",
     equipment: "bodyweight",
     days_per_week: 5,
     minutes_per_session: 45,
     preferences: "",
   });
+
+  // Update the goal if the URL query parameter changes
+  useEffect(() => {
+    setForm((prev) => ({
+      ...prev,
+      goal: selectedGoal,
+    }));
+  }, [selectedGoal]);
 
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
@@ -76,7 +86,6 @@ export default function PlanGenerator() {
 
   return (
     <div className="mx-auto max-w-6xl space-y-8">
-
       {/* Page Header */}
       <div>
         <div className="mb-3 flex items-center gap-2 text-lime-400">
@@ -105,8 +114,11 @@ export default function PlanGenerator() {
           <div className="rounded-xl bg-lime-400/10 p-3">
             <Target className="text-lime-400" size={22} />
           </div>
+
           <div>
-            <h2 className="font-semibold text-white">Your Fitness Profile</h2>
+            <h2 className="font-semibold text-white">
+              Your Fitness Profile
+            </h2>
             <p className="text-xs text-gray-500">
               Customize your training preferences
             </p>
@@ -160,7 +172,9 @@ export default function PlanGenerator() {
           </div>
 
           <div>
-            <FieldLabel icon={CalendarDays}>Workout Days Per Week</FieldLabel>
+            <FieldLabel icon={CalendarDays}>
+              Workout Days Per Week
+            </FieldLabel>
             <select
               name="days_per_week"
               value={form.days_per_week}
@@ -206,6 +220,7 @@ export default function PlanGenerator() {
             placeholder="Mention your preferences, limitations, or anything your AI coach should consider..."
             className="form-select resize-none"
           />
+
           <p className="mt-2 text-right text-xs text-gray-500">
             {form.preferences.length}/500
           </p>
@@ -247,7 +262,6 @@ export default function PlanGenerator() {
       {/* Generated Plan */}
       {result && (
         <section className="space-y-6">
-
           <div className="rounded-2xl border border-lime-400/20 bg-lime-400/5 p-5 sm:p-7">
             <div className="flex items-center gap-2 text-lime-400">
               <CheckCircle2 size={20} />
@@ -305,6 +319,7 @@ export default function PlanGenerator() {
                       <p className="mb-3 text-sm font-semibold text-lime-400">
                         Warm-up
                       </p>
+
                       {day.warm_up.map((item, index) => (
                         <p
                           key={index}
@@ -351,6 +366,7 @@ export default function PlanGenerator() {
                       <p className="mb-3 text-sm font-semibold text-lime-400">
                         Cool-down
                       </p>
+
                       {day.cool_down.map((item, index) => (
                         <p
                           key={index}
@@ -407,4 +423,4 @@ export default function PlanGenerator() {
       )}
     </div>
   );
-                          }
+          }
