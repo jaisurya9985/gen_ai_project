@@ -11,7 +11,7 @@ function AppLayout() {
     <div className="min-h-screen bg-[#09090b]">
       <Sidebar />
 
-      <main className="ml-64 min-h-screen">
+      <main className="min-h-screen md:ml-64">
         <Header />
 
         <div className="p-8">
