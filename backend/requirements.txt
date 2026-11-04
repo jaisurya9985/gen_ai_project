@@ -1,7 +1,6 @@
-
 fastapi
-uvicorn[standard]
-python-dotenv
+uvicorn
 groq
+python-dotenv
 supabase
-sentence-transformers
+requests
