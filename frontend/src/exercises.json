@@ -1,0 +1,4367 @@
+[
+  {
+    "name": "3 4 Sit Up",
+    "image": "/exercises/3_4_Sit-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "90 90 Hamstring",
+    "image": "/exercises/90_90_Hamstring/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Ab Crunch Machine",
+    "image": "/exercises/Ab_Crunch_Machine/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Ab Roller",
+    "image": "/exercises/Ab_Roller/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Adductor",
+    "image": "/exercises/Adductor/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Adductor Groin",
+    "image": "/exercises/Adductor_Groin/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Advanced Kettlebell Windmill",
+    "image": "/exercises/Advanced_Kettlebell_Windmill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Air Bike",
+    "image": "/exercises/Air_Bike/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "All Fours Quad Stretch",
+    "image": "/exercises/All_Fours_Quad_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternate Hammer Curl",
+    "image": "/exercises/Alternate_Hammer_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternate Heel Touchers",
+    "image": "/exercises/Alternate_Heel_Touchers/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternate Incline Dumbbell Curl",
+    "image": "/exercises/Alternate_Incline_Dumbbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternate Leg Diagonal Bound",
+    "image": "/exercises/Alternate_Leg_Diagonal_Bound/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternating Cable Shoulder Press",
+    "image": "/exercises/Alternating_Cable_Shoulder_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternating Deltoid Raise",
+    "image": "/exercises/Alternating_Deltoid_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternating Floor Press",
+    "image": "/exercises/Alternating_Floor_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternating Hang Clean",
+    "image": "/exercises/Alternating_Hang_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternating Kettlebell Press",
+    "image": "/exercises/Alternating_Kettlebell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternating Kettlebell Row",
+    "image": "/exercises/Alternating_Kettlebell_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Alternating Renegade Row",
+    "image": "/exercises/Alternating_Renegade_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Ankle Circles",
+    "image": "/exercises/Ankle_Circles/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Ankle On The Knee",
+    "image": "/exercises/Ankle_On_The_Knee/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Anterior Tibialis SMR",
+    "image": "/exercises/Anterior_Tibialis-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Anti Gravity Press",
+    "image": "/exercises/Anti-Gravity_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Arm Circles",
+    "image": "/exercises/Arm_Circles/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Arnold Dumbbell Press",
+    "image": "/exercises/Arnold_Dumbbell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Around The Worlds",
+    "image": "/exercises/Around_The_Worlds/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Atlas Stone Trainer",
+    "image": "/exercises/Atlas_Stone_Trainer/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Atlas Stones",
+    "image": "/exercises/Atlas_Stones/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Axle Deadlift",
+    "image": "/exercises/Axle_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Back Flyes   With Bands",
+    "image": "/exercises/Back_Flyes_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Backward Drag",
+    "image": "/exercises/Backward_Drag/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Backward Medicine Ball Throw",
+    "image": "/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Balance Board",
+    "image": "/exercises/Balance_Board/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Ball Leg Curl",
+    "image": "/exercises/Ball_Leg_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Band Assisted Pull Up",
+    "image": "/exercises/Band_Assisted_Pull-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Band Good Morning",
+    "image": "/exercises/Band_Good_Morning/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Band Good Morning Pull Through",
+    "image": "/exercises/Band_Good_Morning_Pull_Through/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Band Hip Adductions",
+    "image": "/exercises/Band_Hip_Adductions/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Band Pull Apart",
+    "image": "/exercises/Band_Pull_Apart/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Band Skull Crusher",
+    "image": "/exercises/Band_Skull_Crusher/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Ab Rollout",
+    "image": "/exercises/Barbell_Ab_Rollout/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Ab Rollout   On Knees",
+    "image": "/exercises/Barbell_Ab_Rollout_-_On_Knees/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Bench Press   Medium Grip",
+    "image": "/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Curl",
+    "image": "/exercises/Barbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Curls Lying Against An Incline",
+    "image": "/exercises/Barbell_Curls_Lying_Against_An_Incline/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Deadlift",
+    "image": "/exercises/Barbell_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Full Squat",
+    "image": "/exercises/Barbell_Full_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Glute Bridge",
+    "image": "/exercises/Barbell_Glute_Bridge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Guillotine Bench Press",
+    "image": "/exercises/Barbell_Guillotine_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Hack Squat",
+    "image": "/exercises/Barbell_Hack_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Hip Thrust",
+    "image": "/exercises/Barbell_Hip_Thrust/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Incline Bench Press   Medium Grip",
+    "image": "/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Incline Shoulder Raise",
+    "image": "/exercises/Barbell_Incline_Shoulder_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Lunge",
+    "image": "/exercises/Barbell_Lunge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Rear Delt Row",
+    "image": "/exercises/Barbell_Rear_Delt_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Rollout from Bench",
+    "image": "/exercises/Barbell_Rollout_from_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Seated Calf Raise",
+    "image": "/exercises/Barbell_Seated_Calf_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Shoulder Press",
+    "image": "/exercises/Barbell_Shoulder_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Shrug",
+    "image": "/exercises/Barbell_Shrug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Shrug Behind The Back",
+    "image": "/exercises/Barbell_Shrug_Behind_The_Back/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Side Bend",
+    "image": "/exercises/Barbell_Side_Bend/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Side Split Squat",
+    "image": "/exercises/Barbell_Side_Split_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Squat",
+    "image": "/exercises/Barbell_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Squat To A Bench",
+    "image": "/exercises/Barbell_Squat_To_A_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Step Ups",
+    "image": "/exercises/Barbell_Step_Ups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Barbell Walking Lunge",
+    "image": "/exercises/Barbell_Walking_Lunge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Battling Ropes",
+    "image": "/exercises/Battling_Ropes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bear Crawl Sled Drags",
+    "image": "/exercises/Bear_Crawl_Sled_Drags/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Behind Head Chest Stretch",
+    "image": "/exercises/Behind_Head_Chest_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bench Dips",
+    "image": "/exercises/Bench_Dips/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bench Jump",
+    "image": "/exercises/Bench_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bench Press   Powerlifting",
+    "image": "/exercises/Bench_Press_-_Powerlifting/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bench Press   With Bands",
+    "image": "/exercises/Bench_Press_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bench Press with Chains",
+    "image": "/exercises/Bench_Press_with_Chains/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bench Sprint",
+    "image": "/exercises/Bench_Sprint/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Arm Barbell Pullover",
+    "image": "/exercises/Bent-Arm_Barbell_Pullover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Arm Dumbbell Pullover",
+    "image": "/exercises/Bent-Arm_Dumbbell_Pullover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Knee Hip Raise",
+    "image": "/exercises/Bent-Knee_Hip_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Over Barbell Row",
+    "image": "/exercises/Bent_Over_Barbell_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+    "image": "/exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Over Low Pulley Side Lateral",
+    "image": "/exercises/Bent_Over_Low-Pulley_Side_Lateral/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Over One Arm Long Bar Row",
+    "image": "/exercises/Bent_Over_One-Arm_Long_Bar_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Over Two Arm Long Bar Row",
+    "image": "/exercises/Bent_Over_Two-Arm_Long_Bar_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Over Two Dumbbell Row",
+    "image": "/exercises/Bent_Over_Two-Dumbbell_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Over Two Dumbbell Row With Palms In",
+    "image": "/exercises/Bent_Over_Two-Dumbbell_Row_With_Palms_In/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bent Press",
+    "image": "/exercises/Bent_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bicycling",
+    "image": "/exercises/Bicycling/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bicycling Stationary",
+    "image": "/exercises/Bicycling_Stationary/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Board Press",
+    "image": "/exercises/Board_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Body Up",
+    "image": "/exercises/Body-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Body Tricep Press",
+    "image": "/exercises/Body_Tricep_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bodyweight Flyes",
+    "image": "/exercises/Bodyweight_Flyes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bodyweight Mid Row",
+    "image": "/exercises/Bodyweight_Mid_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bodyweight Squat",
+    "image": "/exercises/Bodyweight_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bodyweight Walking Lunge",
+    "image": "/exercises/Bodyweight_Walking_Lunge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bosu Ball Cable Crunch With Side Bends",
+    "image": "/exercises/Bosu_Ball_Cable_Crunch_With_Side_Bends/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bottoms Up Clean From The Hang Position",
+    "image": "/exercises/Bottoms-Up_Clean_From_The_Hang_Position/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bottoms Up",
+    "image": "/exercises/Bottoms_Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Box Jump Multiple Response",
+    "image": "/exercises/Box_Jump_Multiple_Response/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Box Skip",
+    "image": "/exercises/Box_Skip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Box Squat",
+    "image": "/exercises/Box_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Box Squat with Bands",
+    "image": "/exercises/Box_Squat_with_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Box Squat with Chains",
+    "image": "/exercises/Box_Squat_with_Chains/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Brachialis SMR",
+    "image": "/exercises/Brachialis-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Bradford Rocky Presses",
+    "image": "/exercises/Bradford_Rocky_Presses/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Butt Ups",
+    "image": "/exercises/Butt-Ups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Butt Lift Bridge",
+    "image": "/exercises/Butt_Lift_Bridge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Butterfly",
+    "image": "/exercises/Butterfly/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Chest Press",
+    "image": "/exercises/Cable_Chest_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Crossover",
+    "image": "/exercises/Cable_Crossover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Crunch",
+    "image": "/exercises/Cable_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Deadlifts",
+    "image": "/exercises/Cable_Deadlifts/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Hammer Curls   Rope Attachment",
+    "image": "/exercises/Cable_Hammer_Curls_-_Rope_Attachment/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Hip Adduction",
+    "image": "/exercises/Cable_Hip_Adduction/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Incline Pushdown",
+    "image": "/exercises/Cable_Incline_Pushdown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Incline Triceps Extension",
+    "image": "/exercises/Cable_Incline_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Internal Rotation",
+    "image": "/exercises/Cable_Internal_Rotation/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Iron Cross",
+    "image": "/exercises/Cable_Iron_Cross/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Judo Flip",
+    "image": "/exercises/Cable_Judo_Flip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Lying Triceps Extension",
+    "image": "/exercises/Cable_Lying_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable One Arm Tricep Extension",
+    "image": "/exercises/Cable_One_Arm_Tricep_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Preacher Curl",
+    "image": "/exercises/Cable_Preacher_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Rear Delt Fly",
+    "image": "/exercises/Cable_Rear_Delt_Fly/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Reverse Crunch",
+    "image": "/exercises/Cable_Reverse_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Rope Overhead Triceps Extension",
+    "image": "/exercises/Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Rope Rear Delt Rows",
+    "image": "/exercises/Cable_Rope_Rear-Delt_Rows/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Russian Twists",
+    "image": "/exercises/Cable_Russian_Twists/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Seated Crunch",
+    "image": "/exercises/Cable_Seated_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Seated Lateral Raise",
+    "image": "/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Shoulder Press",
+    "image": "/exercises/Cable_Shoulder_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Shrugs",
+    "image": "/exercises/Cable_Shrugs/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cable Wrist Curl",
+    "image": "/exercises/Cable_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Calf Machine Shoulder Shrug",
+    "image": "/exercises/Calf-Machine_Shoulder_Shrug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Calf Press",
+    "image": "/exercises/Calf_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Calf Press On The Leg Press Machine",
+    "image": "/exercises/Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Calf Raise On A Dumbbell",
+    "image": "/exercises/Calf_Raise_On_A_Dumbbell/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Calf Raises   With Bands",
+    "image": "/exercises/Calf_Raises_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Calf Stretch Elbows Against Wall",
+    "image": "/exercises/Calf_Stretch_Elbows_Against_Wall/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Calf Stretch Hands Against Wall",
+    "image": "/exercises/Calf_Stretch_Hands_Against_Wall/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Calves SMR",
+    "image": "/exercises/Calves-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Car Deadlift",
+    "image": "/exercises/Car_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Car Drivers",
+    "image": "/exercises/Car_Drivers/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Carioca Quick Step",
+    "image": "/exercises/Carioca_Quick_Step/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cat Stretch",
+    "image": "/exercises/Cat_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Catch and Overhead Throw",
+    "image": "/exercises/Catch_and_Overhead_Throw/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chain Handle Extension",
+    "image": "/exercises/Chain_Handle_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chain Press",
+    "image": "/exercises/Chain_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chair Leg Extended Stretch",
+    "image": "/exercises/Chair_Leg_Extended_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chair Lower Back Stretch",
+    "image": "/exercises/Chair_Lower_Back_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chair Squat",
+    "image": "/exercises/Chair_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chair Upper Body Stretch",
+    "image": "/exercises/Chair_Upper_Body_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chest And Front Of Shoulder Stretch",
+    "image": "/exercises/Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chest Push from 3 point stance",
+    "image": "/exercises/Chest_Push_from_3_point_stance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chest Push multiple response",
+    "image": "/exercises/Chest_Push_multiple_response/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chest Push single response",
+    "image": "/exercises/Chest_Push_single_response/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chest Push with Run Release",
+    "image": "/exercises/Chest_Push_with_Run_Release/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chest Stretch on Stability Ball",
+    "image": "/exercises/Chest_Stretch_on_Stability_Ball/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Childs Pose",
+    "image": "/exercises/Childs_Pose/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chin Up",
+    "image": "/exercises/Chin-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Chin To Chest Stretch",
+    "image": "/exercises/Chin_To_Chest_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Circus Bell",
+    "image": "/exercises/Circus_Bell/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Clean",
+    "image": "/exercises/Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Clean Deadlift",
+    "image": "/exercises/Clean_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Clean Pull",
+    "image": "/exercises/Clean_Pull/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Clean Shrug",
+    "image": "/exercises/Clean_Shrug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Clean and Jerk",
+    "image": "/exercises/Clean_and_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Clean and Press",
+    "image": "/exercises/Clean_and_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Clean from Blocks",
+    "image": "/exercises/Clean_from_Blocks/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Clock Push Up",
+    "image": "/exercises/Clock_Push-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Close Grip Barbell Bench Press",
+    "image": "/exercises/Close-Grip_Barbell_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Close Grip Dumbbell Press",
+    "image": "/exercises/Close-Grip_Dumbbell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Close Grip EZ Bar Curl with Band",
+    "image": "/exercises/Close-Grip_EZ-Bar_Curl_with_Band/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Close Grip EZ Bar Press",
+    "image": "/exercises/Close-Grip_EZ-Bar_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Close Grip EZ Bar Curl",
+    "image": "/exercises/Close-Grip_EZ_Bar_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Close Grip Front Lat Pulldown",
+    "image": "/exercises/Close-Grip_Front_Lat_Pulldown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Close Grip Push Up off of a Dumbbell",
+    "image": "/exercises/Close-Grip_Push-Up_off_of_a_Dumbbell/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Close Grip Standing Barbell Curl",
+    "image": "/exercises/Close-Grip_Standing_Barbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cocoons",
+    "image": "/exercises/Cocoons/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Conans Wheel",
+    "image": "/exercises/Conans_Wheel/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Concentration Curls",
+    "image": "/exercises/Concentration_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cross Body Crunch",
+    "image": "/exercises/Cross-Body_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cross Body Hammer Curl",
+    "image": "/exercises/Cross_Body_Hammer_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cross Over   With Bands",
+    "image": "/exercises/Cross_Over_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Crossover Reverse Lunge",
+    "image": "/exercises/Crossover_Reverse_Lunge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Crucifix",
+    "image": "/exercises/Crucifix/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Crunch   Hands Overhead",
+    "image": "/exercises/Crunch_-_Hands_Overhead/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Crunch   Legs On Exercise Ball",
+    "image": "/exercises/Crunch_-_Legs_On_Exercise_Ball/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Crunches",
+    "image": "/exercises/Crunches/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Cuban Press",
+    "image": "/exercises/Cuban_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dancers Stretch",
+    "image": "/exercises/Dancers_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dead Bug",
+    "image": "/exercises/Dead_Bug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Deadlift with Bands",
+    "image": "/exercises/Deadlift_with_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Deadlift with Chains",
+    "image": "/exercises/Deadlift_with_Chains/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Barbell Bench Press",
+    "image": "/exercises/Decline_Barbell_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Close Grip Bench To Skull Crusher",
+    "image": "/exercises/Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Crunch",
+    "image": "/exercises/Decline_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Dumbbell Bench Press",
+    "image": "/exercises/Decline_Dumbbell_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Dumbbell Flyes",
+    "image": "/exercises/Decline_Dumbbell_Flyes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Dumbbell Triceps Extension",
+    "image": "/exercises/Decline_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline EZ Bar Triceps Extension",
+    "image": "/exercises/Decline_EZ_Bar_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Oblique Crunch",
+    "image": "/exercises/Decline_Oblique_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Push Up",
+    "image": "/exercises/Decline_Push-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Reverse Crunch",
+    "image": "/exercises/Decline_Reverse_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Decline Smith Press",
+    "image": "/exercises/Decline_Smith_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Deficit Deadlift",
+    "image": "/exercises/Deficit_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Depth Jump Leap",
+    "image": "/exercises/Depth_Jump_Leap/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dip Machine",
+    "image": "/exercises/Dip_Machine/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dips   Chest Version",
+    "image": "/exercises/Dips_-_Chest_Version/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dips   Triceps Version",
+    "image": "/exercises/Dips_-_Triceps_Version/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Donkey Calf Raises",
+    "image": "/exercises/Donkey_Calf_Raises/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Double Kettlebell Alternating Hang Clean",
+    "image": "/exercises/Double_Kettlebell_Alternating_Hang_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Double Kettlebell Jerk",
+    "image": "/exercises/Double_Kettlebell_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Double Kettlebell Push Press",
+    "image": "/exercises/Double_Kettlebell_Push_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Double Kettlebell Snatch",
+    "image": "/exercises/Double_Kettlebell_Snatch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Double Kettlebell Windmill",
+    "image": "/exercises/Double_Kettlebell_Windmill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Double Leg Butt Kick",
+    "image": "/exercises/Double_Leg_Butt_Kick/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Downward Facing Balance",
+    "image": "/exercises/Downward_Facing_Balance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Drag Curl",
+    "image": "/exercises/Drag_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Drop Push",
+    "image": "/exercises/Drop_Push/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Alternate Bicep Curl",
+    "image": "/exercises/Dumbbell_Alternate_Bicep_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "image": "/exercises/Dumbbell_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Bench Press with Neutral Grip",
+    "image": "/exercises/Dumbbell_Bench_Press_with_Neutral_Grip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Bicep Curl",
+    "image": "/exercises/Dumbbell_Bicep_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Clean",
+    "image": "/exercises/Dumbbell_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Floor Press",
+    "image": "/exercises/Dumbbell_Floor_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Flyes",
+    "image": "/exercises/Dumbbell_Flyes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Incline Row",
+    "image": "/exercises/Dumbbell_Incline_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Incline Shoulder Raise",
+    "image": "/exercises/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Lunges",
+    "image": "/exercises/Dumbbell_Lunges/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Lying One Arm Rear Lateral Raise",
+    "image": "/exercises/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Lying Pronation",
+    "image": "/exercises/Dumbbell_Lying_Pronation/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Lying Rear Lateral Raise",
+    "image": "/exercises/Dumbbell_Lying_Rear_Lateral_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Lying Supination",
+    "image": "/exercises/Dumbbell_Lying_Supination/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell One Arm Shoulder Press",
+    "image": "/exercises/Dumbbell_One-Arm_Shoulder_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell One Arm Triceps Extension",
+    "image": "/exercises/Dumbbell_One-Arm_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell One Arm Upright Row",
+    "image": "/exercises/Dumbbell_One-Arm_Upright_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Prone Incline Curl",
+    "image": "/exercises/Dumbbell_Prone_Incline_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Raise",
+    "image": "/exercises/Dumbbell_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Rear Lunge",
+    "image": "/exercises/Dumbbell_Rear_Lunge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Scaption",
+    "image": "/exercises/Dumbbell_Scaption/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Seated Box Jump",
+    "image": "/exercises/Dumbbell_Seated_Box_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Seated One Leg Calf Raise",
+    "image": "/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Shoulder Press",
+    "image": "/exercises/Dumbbell_Shoulder_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Shrug",
+    "image": "/exercises/Dumbbell_Shrug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Side Bend",
+    "image": "/exercises/Dumbbell_Side_Bend/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Squat",
+    "image": "/exercises/Dumbbell_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Squat To A Bench",
+    "image": "/exercises/Dumbbell_Squat_To_A_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Step Ups",
+    "image": "/exercises/Dumbbell_Step_Ups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dumbbell Tricep Extension  Pronated Grip",
+    "image": "/exercises/Dumbbell_Tricep_Extension_-Pronated_Grip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dynamic Back Stretch",
+    "image": "/exercises/Dynamic_Back_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Dynamic Chest Stretch",
+    "image": "/exercises/Dynamic_Chest_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "EZ Bar Curl",
+    "image": "/exercises/EZ-Bar_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "EZ Bar Skullcrusher",
+    "image": "/exercises/EZ-Bar_Skullcrusher/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Elbow Circles",
+    "image": "/exercises/Elbow_Circles/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Elbow to Knee",
+    "image": "/exercises/Elbow_to_Knee/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Elbows Back",
+    "image": "/exercises/Elbows_Back/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Elevated Back Lunge",
+    "image": "/exercises/Elevated_Back_Lunge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Elevated Cable Rows",
+    "image": "/exercises/Elevated_Cable_Rows/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Elliptical Trainer",
+    "image": "/exercises/Elliptical_Trainer/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Exercise Ball Crunch",
+    "image": "/exercises/Exercise_Ball_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Exercise Ball Pull In",
+    "image": "/exercises/Exercise_Ball_Pull-In/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Extended Range One Arm Kettlebell Floor Press",
+    "image": "/exercises/Extended_Range_One-Arm_Kettlebell_Floor_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "External Rotation",
+    "image": "/exercises/External_Rotation/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "External Rotation with Band",
+    "image": "/exercises/External_Rotation_with_Band/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "External Rotation with Cable",
+    "image": "/exercises/External_Rotation_with_Cable/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Face Pull",
+    "image": "/exercises/Face_Pull/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Farmers Walk",
+    "image": "/exercises/Farmers_Walk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Fast Skipping",
+    "image": "/exercises/Fast_Skipping/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Finger Curls",
+    "image": "/exercises/Finger_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Flat Bench Cable Flyes",
+    "image": "/exercises/Flat_Bench_Cable_Flyes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Flat Bench Leg Pull In",
+    "image": "/exercises/Flat_Bench_Leg_Pull-In/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Flat Bench Lying Leg Raise",
+    "image": "/exercises/Flat_Bench_Lying_Leg_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Flexor Incline Dumbbell Curls",
+    "image": "/exercises/Flexor_Incline_Dumbbell_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Floor Glute Ham Raise",
+    "image": "/exercises/Floor_Glute-Ham_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Floor Press",
+    "image": "/exercises/Floor_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Floor Press with Chains",
+    "image": "/exercises/Floor_Press_with_Chains/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Flutter Kicks",
+    "image": "/exercises/Flutter_Kicks/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Foot SMR",
+    "image": "/exercises/Foot-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Forward Drag with Press",
+    "image": "/exercises/Forward_Drag_with_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Frankenstein Squat",
+    "image": "/exercises/Frankenstein_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Freehand Jump Squat",
+    "image": "/exercises/Freehand_Jump_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Frog Hops",
+    "image": "/exercises/Frog_Hops/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Frog Sit Ups",
+    "image": "/exercises/Frog_Sit-Ups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Barbell Squat",
+    "image": "/exercises/Front_Barbell_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Barbell Squat To A Bench",
+    "image": "/exercises/Front_Barbell_Squat_To_A_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Box Jump",
+    "image": "/exercises/Front_Box_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Cable Raise",
+    "image": "/exercises/Front_Cable_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Cone Hops or hurdle hops",
+    "image": "/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Dumbbell Raise",
+    "image": "/exercises/Front_Dumbbell_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Incline Dumbbell Raise",
+    "image": "/exercises/Front_Incline_Dumbbell_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Leg Raises",
+    "image": "/exercises/Front_Leg_Raises/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Plate Raise",
+    "image": "/exercises/Front_Plate_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Raise And Pullover",
+    "image": "/exercises/Front_Raise_And_Pullover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Squat Clean Grip",
+    "image": "/exercises/Front_Squat_Clean_Grip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Squats With Two Kettlebells",
+    "image": "/exercises/Front_Squats_With_Two_Kettlebells/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Front Two Dumbbell Raise",
+    "image": "/exercises/Front_Two-Dumbbell_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Full Range Of Motion Lat Pulldown",
+    "image": "/exercises/Full_Range-Of-Motion_Lat_Pulldown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Gironda Sternum Chins",
+    "image": "/exercises/Gironda_Sternum_Chins/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Glute Ham Raise",
+    "image": "/exercises/Glute_Ham_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Glute Kickback",
+    "image": "/exercises/Glute_Kickback/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Goblet Squat",
+    "image": "/exercises/Goblet_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Good Morning",
+    "image": "/exercises/Good_Morning/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Good Morning off Pins",
+    "image": "/exercises/Good_Morning_off_Pins/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Gorilla Chin Crunch",
+    "image": "/exercises/Gorilla_Chin_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Groin and Back Stretch",
+    "image": "/exercises/Groin_and_Back_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Groiners",
+    "image": "/exercises/Groiners/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hack Squat",
+    "image": "/exercises/Hack_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hammer Curls",
+    "image": "/exercises/Hammer_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hammer Grip Incline DB Bench Press",
+    "image": "/exercises/Hammer_Grip_Incline_DB_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hamstring SMR",
+    "image": "/exercises/Hamstring-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hamstring Stretch",
+    "image": "/exercises/Hamstring_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Handstand Push Ups",
+    "image": "/exercises/Handstand_Push-Ups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hang Clean",
+    "image": "/exercises/Hang_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hang Clean   Below the Knees",
+    "image": "/exercises/Hang_Clean_-_Below_the_Knees/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hang Snatch",
+    "image": "/exercises/Hang_Snatch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hang Snatch   Below Knees",
+    "image": "/exercises/Hang_Snatch_-_Below_Knees/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hanging Bar Good Morning",
+    "image": "/exercises/Hanging_Bar_Good_Morning/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "image": "/exercises/Hanging_Leg_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hanging Pike",
+    "image": "/exercises/Hanging_Pike/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Heaving Snatch Balance",
+    "image": "/exercises/Heaving_Snatch_Balance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Heavy Bag Thrust",
+    "image": "/exercises/Heavy_Bag_Thrust/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "High Cable Curls",
+    "image": "/exercises/High_Cable_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hip Circles prone",
+    "image": "/exercises/Hip_Circles_prone/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hip Extension with Bands",
+    "image": "/exercises/Hip_Extension_with_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hip Flexion with Band",
+    "image": "/exercises/Hip_Flexion_with_Band/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hip Lift with Band",
+    "image": "/exercises/Hip_Lift_with_Band/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hug A Ball",
+    "image": "/exercises/Hug_A_Ball/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hug Knees To Chest",
+    "image": "/exercises/Hug_Knees_To_Chest/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hurdle Hops",
+    "image": "/exercises/Hurdle_Hops/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hyperextensions Back Extensions",
+    "image": "/exercises/Hyperextensions_Back_Extensions/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Hyperextensions With No Hyperextension Bench",
+    "image": "/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "IT Band and Glute Stretch",
+    "image": "/exercises/IT_Band_and_Glute_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Iliotibial Tract SMR",
+    "image": "/exercises/Iliotibial_Tract-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Inchworm",
+    "image": "/exercises/Inchworm/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Barbell Triceps Extension",
+    "image": "/exercises/Incline_Barbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Bench Pull",
+    "image": "/exercises/Incline_Bench_Pull/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Cable Chest Press",
+    "image": "/exercises/Incline_Cable_Chest_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Cable Flye",
+    "image": "/exercises/Incline_Cable_Flye/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Dumbbell Bench With Palms Facing In",
+    "image": "/exercises/Incline_Dumbbell_Bench_With_Palms_Facing_In/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Dumbbell Curl",
+    "image": "/exercises/Incline_Dumbbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Dumbbell Flyes",
+    "image": "/exercises/Incline_Dumbbell_Flyes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Dumbbell Flyes   With A Twist",
+    "image": "/exercises/Incline_Dumbbell_Flyes_-_With_A_Twist/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Dumbbell Press",
+    "image": "/exercises/Incline_Dumbbell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Hammer Curls",
+    "image": "/exercises/Incline_Hammer_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Inner Biceps Curl",
+    "image": "/exercises/Incline_Inner_Biceps_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Push Up",
+    "image": "/exercises/Incline_Push-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Push Up Close Grip",
+    "image": "/exercises/Incline_Push-Up_Close-Grip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Push Up Depth Jump",
+    "image": "/exercises/Incline_Push-Up_Depth_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Push Up Medium",
+    "image": "/exercises/Incline_Push-Up_Medium/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Push Up Reverse Grip",
+    "image": "/exercises/Incline_Push-Up_Reverse_Grip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Incline Push Up Wide",
+    "image": "/exercises/Incline_Push-Up_Wide/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Intermediate Groin Stretch",
+    "image": "/exercises/Intermediate_Groin_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Intermediate Hip Flexor and Quad Stretch",
+    "image": "/exercises/Intermediate_Hip_Flexor_and_Quad_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Internal Rotation with Band",
+    "image": "/exercises/Internal_Rotation_with_Band/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Inverted Row",
+    "image": "/exercises/Inverted_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Inverted Row with Straps",
+    "image": "/exercises/Inverted_Row_with_Straps/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Iron Cross",
+    "image": "/exercises/Iron_Cross/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Iron Crosses stretch",
+    "image": "/exercises/Iron_Crosses_stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Isometric Chest Squeezes",
+    "image": "/exercises/Isometric_Chest_Squeezes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Isometric Neck Exercise   Front And Back",
+    "image": "/exercises/Isometric_Neck_Exercise_-_Front_And_Back/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Isometric Neck Exercise   Sides",
+    "image": "/exercises/Isometric_Neck_Exercise_-_Sides/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Isometric Wipers",
+    "image": "/exercises/Isometric_Wipers/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "JM Press",
+    "image": "/exercises/JM_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Jackknife Sit Up",
+    "image": "/exercises/Jackknife_Sit-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Janda Sit Up",
+    "image": "/exercises/Janda_Sit-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Jefferson Squats",
+    "image": "/exercises/Jefferson_Squats/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Jerk Balance",
+    "image": "/exercises/Jerk_Balance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Jerk Dip Squat",
+    "image": "/exercises/Jerk_Dip_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Jogging Treadmill",
+    "image": "/exercises/Jogging_Treadmill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Keg Load",
+    "image": "/exercises/Keg_Load/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Arnold Press",
+    "image": "/exercises/Kettlebell_Arnold_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Dead Clean",
+    "image": "/exercises/Kettlebell_Dead_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Figure 8",
+    "image": "/exercises/Kettlebell_Figure_8/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Hang Clean",
+    "image": "/exercises/Kettlebell_Hang_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell One Legged Deadlift",
+    "image": "/exercises/Kettlebell_One-Legged_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Pass Between The Legs",
+    "image": "/exercises/Kettlebell_Pass_Between_The_Legs/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Pirate Ships",
+    "image": "/exercises/Kettlebell_Pirate_Ships/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Pistol Squat",
+    "image": "/exercises/Kettlebell_Pistol_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Seated Press",
+    "image": "/exercises/Kettlebell_Seated_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Seesaw Press",
+    "image": "/exercises/Kettlebell_Seesaw_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Sumo High Pull",
+    "image": "/exercises/Kettlebell_Sumo_High_Pull/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Thruster",
+    "image": "/exercises/Kettlebell_Thruster/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Turkish Get Up Lunge style",
+    "image": "/exercises/Kettlebell_Turkish_Get-Up_Lunge_style/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Turkish Get Up Squat style",
+    "image": "/exercises/Kettlebell_Turkish_Get-Up_Squat_style/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kettlebell Windmill",
+    "image": "/exercises/Kettlebell_Windmill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kipping Muscle Up",
+    "image": "/exercises/Kipping_Muscle_Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Knee Across The Body",
+    "image": "/exercises/Knee_Across_The_Body/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Knee Circles",
+    "image": "/exercises/Knee_Circles/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Knee Hip Raise On Parallel Bars",
+    "image": "/exercises/Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Knee Tuck Jump",
+    "image": "/exercises/Knee_Tuck_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling Arm Drill",
+    "image": "/exercises/Kneeling_Arm_Drill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
+    "image": "/exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling Cable Triceps Extension",
+    "image": "/exercises/Kneeling_Cable_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling Forearm Stretch",
+    "image": "/exercises/Kneeling_Forearm_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling High Pulley Row",
+    "image": "/exercises/Kneeling_High_Pulley_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling Hip Flexor",
+    "image": "/exercises/Kneeling_Hip_Flexor/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling Jump Squat",
+    "image": "/exercises/Kneeling_Jump_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling Single Arm High Pulley Row",
+    "image": "/exercises/Kneeling_Single-Arm_High_Pulley_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Kneeling Squat",
+    "image": "/exercises/Kneeling_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Landmine 180s",
+    "image": "/exercises/Landmine_180s/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Landmine Linear Jammer",
+    "image": "/exercises/Landmine_Linear_Jammer/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lateral Bound",
+    "image": "/exercises/Lateral_Bound/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lateral Box Jump",
+    "image": "/exercises/Lateral_Box_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lateral Cone Hops",
+    "image": "/exercises/Lateral_Cone_Hops/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lateral Raise   With Bands",
+    "image": "/exercises/Lateral_Raise_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Latissimus Dorsi SMR",
+    "image": "/exercises/Latissimus_Dorsi-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leg Over Floor Press",
+    "image": "/exercises/Leg-Over_Floor_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leg Up Hamstring Stretch",
+    "image": "/exercises/Leg-Up_Hamstring_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leg Extensions",
+    "image": "/exercises/Leg_Extensions/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leg Lift",
+    "image": "/exercises/Leg_Lift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leg Press",
+    "image": "/exercises/Leg_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leg Pull In",
+    "image": "/exercises/Leg_Pull-In/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leverage Chest Press",
+    "image": "/exercises/Leverage_Chest_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leverage Deadlift",
+    "image": "/exercises/Leverage_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leverage Decline Chest Press",
+    "image": "/exercises/Leverage_Decline_Chest_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leverage High Row",
+    "image": "/exercises/Leverage_High_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leverage Incline Chest Press",
+    "image": "/exercises/Leverage_Incline_Chest_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leverage Iso Row",
+    "image": "/exercises/Leverage_Iso_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leverage Shoulder Press",
+    "image": "/exercises/Leverage_Shoulder_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Leverage Shrug",
+    "image": "/exercises/Leverage_Shrug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Linear 3 Part Start Technique",
+    "image": "/exercises/Linear_3-Part_Start_Technique/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Linear Acceleration Wall Drill",
+    "image": "/exercises/Linear_Acceleration_Wall_Drill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Linear Depth Jump",
+    "image": "/exercises/Linear_Depth_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Log Lift",
+    "image": "/exercises/Log_Lift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "London Bridges",
+    "image": "/exercises/London_Bridges/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Looking At Ceiling",
+    "image": "/exercises/Looking_At_Ceiling/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Low Cable Crossover",
+    "image": "/exercises/Low_Cable_Crossover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Low Cable Triceps Extension",
+    "image": "/exercises/Low_Cable_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Low Pulley Row To Neck",
+    "image": "/exercises/Low_Pulley_Row_To_Neck/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lower Back SMR",
+    "image": "/exercises/Lower_Back-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lower Back Curl",
+    "image": "/exercises/Lower_Back_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lunge Pass Through",
+    "image": "/exercises/Lunge_Pass_Through/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lunge Sprint",
+    "image": "/exercises/Lunge_Sprint/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Bent Leg Groin",
+    "image": "/exercises/Lying_Bent_Leg_Groin/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Cable Curl",
+    "image": "/exercises/Lying_Cable_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Cambered Barbell Row",
+    "image": "/exercises/Lying_Cambered_Barbell_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Close Grip Bar Curl On High Pulley",
+    "image": "/exercises/Lying_Close-Grip_Bar_Curl_On_High_Pulley/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Close Grip Barbell Triceps Extension Behind The Head",
+    "image": "/exercises/Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Close Grip Barbell Triceps Press To Chin",
+    "image": "/exercises/Lying_Close-Grip_Barbell_Triceps_Press_To_Chin/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Crossover",
+    "image": "/exercises/Lying_Crossover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Dumbbell Tricep Extension",
+    "image": "/exercises/Lying_Dumbbell_Tricep_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Face Down Plate Neck Resistance",
+    "image": "/exercises/Lying_Face_Down_Plate_Neck_Resistance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Face Up Plate Neck Resistance",
+    "image": "/exercises/Lying_Face_Up_Plate_Neck_Resistance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Glute",
+    "image": "/exercises/Lying_Glute/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Hamstring",
+    "image": "/exercises/Lying_Hamstring/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying High Bench Barbell Curl",
+    "image": "/exercises/Lying_High_Bench_Barbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Leg Curls",
+    "image": "/exercises/Lying_Leg_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Machine Squat",
+    "image": "/exercises/Lying_Machine_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying One Arm Lateral Raise",
+    "image": "/exercises/Lying_One-Arm_Lateral_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Prone Quadriceps",
+    "image": "/exercises/Lying_Prone_Quadriceps/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Rear Delt Raise",
+    "image": "/exercises/Lying_Rear_Delt_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Supine Dumbbell Curl",
+    "image": "/exercises/Lying_Supine_Dumbbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying T Bar Row",
+    "image": "/exercises/Lying_T-Bar_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Lying Triceps Press",
+    "image": "/exercises/Lying_Triceps_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Machine Bench Press",
+    "image": "/exercises/Machine_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Machine Bicep Curl",
+    "image": "/exercises/Machine_Bicep_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Machine Preacher Curls",
+    "image": "/exercises/Machine_Preacher_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Machine Shoulder Military Press",
+    "image": "/exercises/Machine_Shoulder_Military_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Machine Triceps Extension",
+    "image": "/exercises/Machine_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Medicine Ball Chest Pass",
+    "image": "/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Medicine Ball Full Twist",
+    "image": "/exercises/Medicine_Ball_Full_Twist/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Medicine Ball Scoop Throw",
+    "image": "/exercises/Medicine_Ball_Scoop_Throw/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Middle Back Shrug",
+    "image": "/exercises/Middle_Back_Shrug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Middle Back Stretch",
+    "image": "/exercises/Middle_Back_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Mixed Grip Chin",
+    "image": "/exercises/Mixed_Grip_Chin/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Monster Walk",
+    "image": "/exercises/Monster_Walk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Mountain Climbers",
+    "image": "/exercises/Mountain_Climbers/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Moving Claw Series",
+    "image": "/exercises/Moving_Claw_Series/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Muscle Snatch",
+    "image": "/exercises/Muscle_Snatch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Muscle Up",
+    "image": "/exercises/Muscle_Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Narrow Stance Hack Squats",
+    "image": "/exercises/Narrow_Stance_Hack_Squats/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Narrow Stance Leg Press",
+    "image": "/exercises/Narrow_Stance_Leg_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Narrow Stance Squats",
+    "image": "/exercises/Narrow_Stance_Squats/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Natural Glute Ham Raise",
+    "image": "/exercises/Natural_Glute_Ham_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Neck SMR",
+    "image": "/exercises/Neck-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Neck Press",
+    "image": "/exercises/Neck_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Oblique Crunches",
+    "image": "/exercises/Oblique_Crunches/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Oblique Crunches   On The Floor",
+    "image": "/exercises/Oblique_Crunches_-_On_The_Floor/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Olympic Squat",
+    "image": "/exercises/Olympic_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "On Your Back Quad Stretch",
+    "image": "/exercises/On-Your-Back_Quad_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "On Your Side Quad Stretch",
+    "image": "/exercises/On_Your_Side_Quad_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Dumbbell Row",
+    "image": "/exercises/One-Arm_Dumbbell_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Flat Bench Dumbbell Flye",
+    "image": "/exercises/One-Arm_Flat_Bench_Dumbbell_Flye/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm High Pulley Cable Side Bends",
+    "image": "/exercises/One-Arm_High-Pulley_Cable_Side_Bends/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Incline Lateral Raise",
+    "image": "/exercises/One-Arm_Incline_Lateral_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Clean",
+    "image": "/exercises/One-Arm_Kettlebell_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Clean and Jerk",
+    "image": "/exercises/One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Floor Press",
+    "image": "/exercises/One-Arm_Kettlebell_Floor_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Jerk",
+    "image": "/exercises/One-Arm_Kettlebell_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Military Press To The Side",
+    "image": "/exercises/One-Arm_Kettlebell_Military_Press_To_The_Side/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Para Press",
+    "image": "/exercises/One-Arm_Kettlebell_Para_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Push Press",
+    "image": "/exercises/One-Arm_Kettlebell_Push_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Row",
+    "image": "/exercises/One-Arm_Kettlebell_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Snatch",
+    "image": "/exercises/One-Arm_Kettlebell_Snatch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Split Jerk",
+    "image": "/exercises/One-Arm_Kettlebell_Split_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Split Snatch",
+    "image": "/exercises/One-Arm_Kettlebell_Split_Snatch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Kettlebell Swings",
+    "image": "/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Long Bar Row",
+    "image": "/exercises/One-Arm_Long_Bar_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Medicine Ball Slam",
+    "image": "/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Open Palm Kettlebell Clean",
+    "image": "/exercises/One-Arm_Open_Palm_Kettlebell_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Overhead Kettlebell Squats",
+    "image": "/exercises/One-Arm_Overhead_Kettlebell_Squats/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Side Deadlift",
+    "image": "/exercises/One-Arm_Side_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Side Laterals",
+    "image": "/exercises/One-Arm_Side_Laterals/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Legged Cable Kickback",
+    "image": "/exercises/One-Legged_Cable_Kickback/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Against Wall",
+    "image": "/exercises/One_Arm_Against_Wall/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Chin Up",
+    "image": "/exercises/One_Arm_Chin-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Dumbbell Bench Press",
+    "image": "/exercises/One_Arm_Dumbbell_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Dumbbell Preacher Curl",
+    "image": "/exercises/One_Arm_Dumbbell_Preacher_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Floor Press",
+    "image": "/exercises/One_Arm_Floor_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Lat Pulldown",
+    "image": "/exercises/One_Arm_Lat_Pulldown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Pronated Dumbbell Triceps Extension",
+    "image": "/exercises/One_Arm_Pronated_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Arm Supinated Dumbbell Triceps Extension",
+    "image": "/exercises/One_Arm_Supinated_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Half Locust",
+    "image": "/exercises/One_Half_Locust/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Handed Hang",
+    "image": "/exercises/One_Handed_Hang/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Knee To Chest",
+    "image": "/exercises/One_Knee_To_Chest/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "One Leg Barbell Squat",
+    "image": "/exercises/One_Leg_Barbell_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Open Palm Kettlebell Clean",
+    "image": "/exercises/Open_Palm_Kettlebell_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Otis Up",
+    "image": "/exercises/Otis-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Overhead Cable Curl",
+    "image": "/exercises/Overhead_Cable_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Overhead Lat",
+    "image": "/exercises/Overhead_Lat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Overhead Slam",
+    "image": "/exercises/Overhead_Slam/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Overhead Squat",
+    "image": "/exercises/Overhead_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Overhead Stretch",
+    "image": "/exercises/Overhead_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Overhead Triceps",
+    "image": "/exercises/Overhead_Triceps/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pallof Press",
+    "image": "/exercises/Pallof_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pallof Press With Rotation",
+    "image": "/exercises/Pallof_Press_With_Rotation/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Palms Down Dumbbell Wrist Curl Over A Bench",
+    "image": "/exercises/Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Palms Down Wrist Curl Over A Bench",
+    "image": "/exercises/Palms-Down_Wrist_Curl_Over_A_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Palms Up Barbell Wrist Curl Over A Bench",
+    "image": "/exercises/Palms-Up_Barbell_Wrist_Curl_Over_A_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Palms Up Dumbbell Wrist Curl Over A Bench",
+    "image": "/exercises/Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Parallel Bar Dip",
+    "image": "/exercises/Parallel_Bar_Dip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pelvic Tilt Into Bridge",
+    "image": "/exercises/Pelvic_Tilt_Into_Bridge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Peroneals SMR",
+    "image": "/exercises/Peroneals-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Peroneals Stretch",
+    "image": "/exercises/Peroneals_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Physioball Hip Bridge",
+    "image": "/exercises/Physioball_Hip_Bridge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pin Presses",
+    "image": "/exercises/Pin_Presses/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Piriformis SMR",
+    "image": "/exercises/Piriformis-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Plank",
+    "image": "/exercises/Plank/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Plate Pinch",
+    "image": "/exercises/Plate_Pinch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Plate Twist",
+    "image": "/exercises/Plate_Twist/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Platform Hamstring Slides",
+    "image": "/exercises/Platform_Hamstring_Slides/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Plie Dumbbell Squat",
+    "image": "/exercises/Plie_Dumbbell_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Plyo Kettlebell Pushups",
+    "image": "/exercises/Plyo_Kettlebell_Pushups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Plyo Push up",
+    "image": "/exercises/Plyo_Push-up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Posterior Tibialis Stretch",
+    "image": "/exercises/Posterior_Tibialis_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Power Clean",
+    "image": "/exercises/Power_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Power Clean from Blocks",
+    "image": "/exercises/Power_Clean_from_Blocks/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Power Jerk",
+    "image": "/exercises/Power_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Power Partials",
+    "image": "/exercises/Power_Partials/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Power Snatch",
+    "image": "/exercises/Power_Snatch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Power Snatch from Blocks",
+    "image": "/exercises/Power_Snatch_from_Blocks/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Power Stairs",
+    "image": "/exercises/Power_Stairs/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Preacher Curl",
+    "image": "/exercises/Preacher_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Preacher Hammer Dumbbell Curl",
+    "image": "/exercises/Preacher_Hammer_Dumbbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Press Sit Up",
+    "image": "/exercises/Press_Sit-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Prone Manual Hamstring",
+    "image": "/exercises/Prone_Manual_Hamstring/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Prowler Sprint",
+    "image": "/exercises/Prowler_Sprint/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pull Through",
+    "image": "/exercises/Pull_Through/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pullups",
+    "image": "/exercises/Pullups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Push Up Wide",
+    "image": "/exercises/Push-Up_Wide/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Push Ups   Close Triceps Position",
+    "image": "/exercises/Push-Ups_-_Close_Triceps_Position/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Push Ups With Feet Elevated",
+    "image": "/exercises/Push-Ups_With_Feet_Elevated/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Push Ups With Feet On An Exercise Ball",
+    "image": "/exercises/Push-Ups_With_Feet_On_An_Exercise_Ball/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Push Press",
+    "image": "/exercises/Push_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Push Press   Behind the Neck",
+    "image": "/exercises/Push_Press_-_Behind_the_Neck/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Push Up to Side Plank",
+    "image": "/exercises/Push_Up_to_Side_Plank/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pushups",
+    "image": "/exercises/Pushups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pushups Close and Wide Hand Positions",
+    "image": "/exercises/Pushups_Close_and_Wide_Hand_Positions/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Pyramid",
+    "image": "/exercises/Pyramid/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Quad Stretch",
+    "image": "/exercises/Quad_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Quadriceps SMR",
+    "image": "/exercises/Quadriceps-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Quick Leap",
+    "image": "/exercises/Quick_Leap/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rack Delivery",
+    "image": "/exercises/Rack_Delivery/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rack Pull with Bands",
+    "image": "/exercises/Rack_Pull_with_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rack Pulls",
+    "image": "/exercises/Rack_Pulls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rear Leg Raises",
+    "image": "/exercises/Rear_Leg_Raises/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Recumbent Bike",
+    "image": "/exercises/Recumbent_Bike/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Return Push from Stance",
+    "image": "/exercises/Return_Push_from_Stance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Band Bench Press",
+    "image": "/exercises/Reverse_Band_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Band Box Squat",
+    "image": "/exercises/Reverse_Band_Box_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Band Deadlift",
+    "image": "/exercises/Reverse_Band_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Band Power Squat",
+    "image": "/exercises/Reverse_Band_Power_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Band Sumo Deadlift",
+    "image": "/exercises/Reverse_Band_Sumo_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Barbell Curl",
+    "image": "/exercises/Reverse_Barbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Barbell Preacher Curls",
+    "image": "/exercises/Reverse_Barbell_Preacher_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Cable Curl",
+    "image": "/exercises/Reverse_Cable_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Crunch",
+    "image": "/exercises/Reverse_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Flyes",
+    "image": "/exercises/Reverse_Flyes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Flyes With External Rotation",
+    "image": "/exercises/Reverse_Flyes_With_External_Rotation/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Grip Bent Over Rows",
+    "image": "/exercises/Reverse_Grip_Bent-Over_Rows/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Grip Triceps Pushdown",
+    "image": "/exercises/Reverse_Grip_Triceps_Pushdown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Hyperextension",
+    "image": "/exercises/Reverse_Hyperextension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Machine Flyes",
+    "image": "/exercises/Reverse_Machine_Flyes/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Plate Curls",
+    "image": "/exercises/Reverse_Plate_Curls/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Reverse Triceps Bench Press",
+    "image": "/exercises/Reverse_Triceps_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rhomboids SMR",
+    "image": "/exercises/Rhomboids-SMR/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rickshaw Carry",
+    "image": "/exercises/Rickshaw_Carry/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rickshaw Deadlift",
+    "image": "/exercises/Rickshaw_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Ring Dips",
+    "image": "/exercises/Ring_Dips/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rocket Jump",
+    "image": "/exercises/Rocket_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rocking Standing Calf Raise",
+    "image": "/exercises/Rocking_Standing_Calf_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rocky Pull Ups Pulldowns",
+    "image": "/exercises/Rocky_Pull-Ups_Pulldowns/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Romanian Deadlift",
+    "image": "/exercises/Romanian_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Romanian Deadlift from Deficit",
+    "image": "/exercises/Romanian_Deadlift_from_Deficit/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rope Climb",
+    "image": "/exercises/Rope_Climb/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rope Crunch",
+    "image": "/exercises/Rope_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rope Jumping",
+    "image": "/exercises/Rope_Jumping/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rope Straight Arm Pulldown",
+    "image": "/exercises/Rope_Straight-Arm_Pulldown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Round The World Shoulder Stretch",
+    "image": "/exercises/Round_The_World_Shoulder_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Rowing Stationary",
+    "image": "/exercises/Rowing_Stationary/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Runners Stretch",
+    "image": "/exercises/Runners_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Running Treadmill",
+    "image": "/exercises/Running_Treadmill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Russian Twist",
+    "image": "/exercises/Russian_Twist/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sandbag Load",
+    "image": "/exercises/Sandbag_Load/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Scapular Pull Up",
+    "image": "/exercises/Scapular_Pull-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Scissor Kick",
+    "image": "/exercises/Scissor_Kick/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Scissors Jump",
+    "image": "/exercises/Scissors_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Band Hamstring Curl",
+    "image": "/exercises/Seated_Band_Hamstring_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Barbell Military Press",
+    "image": "/exercises/Seated_Barbell_Military_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Barbell Twist",
+    "image": "/exercises/Seated_Barbell_Twist/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Bent Over One Arm Dumbbell Triceps Extension",
+    "image": "/exercises/Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Bent Over Rear Delt Raise",
+    "image": "/exercises/Seated_Bent-Over_Rear_Delt_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Bent Over Two Arm Dumbbell Triceps Extension",
+    "image": "/exercises/Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Biceps",
+    "image": "/exercises/Seated_Biceps/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Cable Rows",
+    "image": "/exercises/Seated_Cable_Rows/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Cable Shoulder Press",
+    "image": "/exercises/Seated_Cable_Shoulder_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Calf Raise",
+    "image": "/exercises/Seated_Calf_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Calf Stretch",
+    "image": "/exercises/Seated_Calf_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Close Grip Concentration Barbell Curl",
+    "image": "/exercises/Seated_Close-Grip_Concentration_Barbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Dumbbell Curl",
+    "image": "/exercises/Seated_Dumbbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Dumbbell Inner Biceps Curl",
+    "image": "/exercises/Seated_Dumbbell_Inner_Biceps_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Dumbbell Palms Down Wrist Curl",
+    "image": "/exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Dumbbell Palms Up Wrist Curl",
+    "image": "/exercises/Seated_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Dumbbell Press",
+    "image": "/exercises/Seated_Dumbbell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Flat Bench Leg Pull In",
+    "image": "/exercises/Seated_Flat_Bench_Leg_Pull-In/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Floor Hamstring Stretch",
+    "image": "/exercises/Seated_Floor_Hamstring_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Front Deltoid",
+    "image": "/exercises/Seated_Front_Deltoid/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Glute",
+    "image": "/exercises/Seated_Glute/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Good Mornings",
+    "image": "/exercises/Seated_Good_Mornings/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Hamstring",
+    "image": "/exercises/Seated_Hamstring/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Hamstring and Calf Stretch",
+    "image": "/exercises/Seated_Hamstring_and_Calf_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Head Harness Neck Resistance",
+    "image": "/exercises/Seated_Head_Harness_Neck_Resistance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Leg Curl",
+    "image": "/exercises/Seated_Leg_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Leg Tucks",
+    "image": "/exercises/Seated_Leg_Tucks/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated One Arm Dumbbell Palms Down Wrist Curl",
+    "image": "/exercises/Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated One Arm Dumbbell Palms Up Wrist Curl",
+    "image": "/exercises/Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated One arm Cable Pulley Rows",
+    "image": "/exercises/Seated_One-arm_Cable_Pulley_Rows/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Overhead Stretch",
+    "image": "/exercises/Seated_Overhead_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Palm Up Barbell Wrist Curl",
+    "image": "/exercises/Seated_Palm-Up_Barbell_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Palms Down Barbell Wrist Curl",
+    "image": "/exercises/Seated_Palms-Down_Barbell_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Side Lateral Raise",
+    "image": "/exercises/Seated_Side_Lateral_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Triceps Press",
+    "image": "/exercises/Seated_Triceps_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Seated Two Arm Palms Up Low Pulley Wrist Curl",
+    "image": "/exercises/Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "See Saw Press Alternating Side Press",
+    "image": "/exercises/See-Saw_Press_Alternating_Side_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Shotgun Row",
+    "image": "/exercises/Shotgun_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Shoulder Circles",
+    "image": "/exercises/Shoulder_Circles/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Shoulder Press   With Bands",
+    "image": "/exercises/Shoulder_Press_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Shoulder Raise",
+    "image": "/exercises/Shoulder_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Shoulder Stretch",
+    "image": "/exercises/Shoulder_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Lying Floor Stretch",
+    "image": "/exercises/Side-Lying_Floor_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Bridge",
+    "image": "/exercises/Side_Bridge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Hop Sprint",
+    "image": "/exercises/Side_Hop-Sprint/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Jackknife",
+    "image": "/exercises/Side_Jackknife/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Lateral Raise",
+    "image": "/exercises/Side_Lateral_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Laterals to Front Raise",
+    "image": "/exercises/Side_Laterals_to_Front_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Leg Raises",
+    "image": "/exercises/Side_Leg_Raises/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Lying Groin Stretch",
+    "image": "/exercises/Side_Lying_Groin_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Neck Stretch",
+    "image": "/exercises/Side_Neck_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Standing Long Jump",
+    "image": "/exercises/Side_Standing_Long_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side To Side Chins",
+    "image": "/exercises/Side_To_Side_Chins/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side Wrist Pull",
+    "image": "/exercises/Side_Wrist_Pull/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Side to Side Box Shuffle",
+    "image": "/exercises/Side_to_Side_Box_Shuffle/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Arm Cable Crossover",
+    "image": "/exercises/Single-Arm_Cable_Crossover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Arm Linear Jammer",
+    "image": "/exercises/Single-Arm_Linear_Jammer/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Arm Push Up",
+    "image": "/exercises/Single-Arm_Push-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Cone Sprint Drill",
+    "image": "/exercises/Single-Cone_Sprint_Drill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Leg High Box Squat",
+    "image": "/exercises/Single-Leg_High_Box_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Leg Hop Progression",
+    "image": "/exercises/Single-Leg_Hop_Progression/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Leg Lateral Hop",
+    "image": "/exercises/Single-Leg_Lateral_Hop/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Leg Leg Extension",
+    "image": "/exercises/Single-Leg_Leg_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Leg Stride Jump",
+    "image": "/exercises/Single-Leg_Stride_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Dumbbell Raise",
+    "image": "/exercises/Single_Dumbbell_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Leg Butt Kick",
+    "image": "/exercises/Single_Leg_Butt_Kick/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Leg Glute Bridge",
+    "image": "/exercises/Single_Leg_Glute_Bridge/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Single Leg Push off",
+    "image": "/exercises/Single_Leg_Push-off/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sit Up",
+    "image": "/exercises/Sit-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sit Squats",
+    "image": "/exercises/Sit_Squats/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Skating",
+    "image": "/exercises/Skating/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sled Drag   Harness",
+    "image": "/exercises/Sled_Drag_-_Harness/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sled Overhead Backward Walk",
+    "image": "/exercises/Sled_Overhead_Backward_Walk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sled Overhead Triceps Extension",
+    "image": "/exercises/Sled_Overhead_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sled Push",
+    "image": "/exercises/Sled_Push/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sled Reverse Flye",
+    "image": "/exercises/Sled_Reverse_Flye/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sled Row",
+    "image": "/exercises/Sled_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sledgehammer Swings",
+    "image": "/exercises/Sledgehammer_Swings/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Incline Shoulder Raise",
+    "image": "/exercises/Smith_Incline_Shoulder_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Behind the Back Shrug",
+    "image": "/exercises/Smith_Machine_Behind_the_Back_Shrug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Bench Press",
+    "image": "/exercises/Smith_Machine_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Bent Over Row",
+    "image": "/exercises/Smith_Machine_Bent_Over_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Calf Raise",
+    "image": "/exercises/Smith_Machine_Calf_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Close Grip Bench Press",
+    "image": "/exercises/Smith_Machine_Close-Grip_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Decline Press",
+    "image": "/exercises/Smith_Machine_Decline_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Hang Power Clean",
+    "image": "/exercises/Smith_Machine_Hang_Power_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Hip Raise",
+    "image": "/exercises/Smith_Machine_Hip_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Incline Bench Press",
+    "image": "/exercises/Smith_Machine_Incline_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Leg Press",
+    "image": "/exercises/Smith_Machine_Leg_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine One Arm Upright Row",
+    "image": "/exercises/Smith_Machine_One-Arm_Upright_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Overhead Shoulder Press",
+    "image": "/exercises/Smith_Machine_Overhead_Shoulder_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Pistol Squat",
+    "image": "/exercises/Smith_Machine_Pistol_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Reverse Calf Raises",
+    "image": "/exercises/Smith_Machine_Reverse_Calf_Raises/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Squat",
+    "image": "/exercises/Smith_Machine_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Stiff Legged Deadlift",
+    "image": "/exercises/Smith_Machine_Stiff-Legged_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Machine Upright Row",
+    "image": "/exercises/Smith_Machine_Upright_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Smith Single Leg Split Squat",
+    "image": "/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Snatch",
+    "image": "/exercises/Snatch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Snatch Balance",
+    "image": "/exercises/Snatch_Balance/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Snatch Deadlift",
+    "image": "/exercises/Snatch_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Snatch Pull",
+    "image": "/exercises/Snatch_Pull/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Snatch Shrug",
+    "image": "/exercises/Snatch_Shrug/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Snatch from Blocks",
+    "image": "/exercises/Snatch_from_Blocks/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Speed Band Overhead Triceps",
+    "image": "/exercises/Speed_Band_Overhead_Triceps/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Speed Box Squat",
+    "image": "/exercises/Speed_Box_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Speed Squats",
+    "image": "/exercises/Speed_Squats/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Spell Caster",
+    "image": "/exercises/Spell_Caster/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Spider Crawl",
+    "image": "/exercises/Spider_Crawl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Spider Curl",
+    "image": "/exercises/Spider_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Spinal Stretch",
+    "image": "/exercises/Spinal_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Split Clean",
+    "image": "/exercises/Split_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Split Jerk",
+    "image": "/exercises/Split_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Split Jump",
+    "image": "/exercises/Split_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Split Snatch",
+    "image": "/exercises/Split_Snatch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Split Squat with Dumbbells",
+    "image": "/exercises/Split_Squat_with_Dumbbells/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Split Squats",
+    "image": "/exercises/Split_Squats/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Squat Jerk",
+    "image": "/exercises/Squat_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Squat with Bands",
+    "image": "/exercises/Squat_with_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Squat with Chains",
+    "image": "/exercises/Squat_with_Chains/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Squat with Plate Movers",
+    "image": "/exercises/Squat_with_Plate_Movers/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Squats   With Bands",
+    "image": "/exercises/Squats_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Stairmaster",
+    "image": "/exercises/Stairmaster/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Alternating Dumbbell Press",
+    "image": "/exercises/Standing_Alternating_Dumbbell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Barbell Calf Raise",
+    "image": "/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Barbell Press Behind Neck",
+    "image": "/exercises/Standing_Barbell_Press_Behind_Neck/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Bent Over One Arm Dumbbell Triceps Extension",
+    "image": "/exercises/Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Bent Over Two Arm Dumbbell Triceps Extension",
+    "image": "/exercises/Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Biceps Cable Curl",
+    "image": "/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Biceps Stretch",
+    "image": "/exercises/Standing_Biceps_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Bradford Press",
+    "image": "/exercises/Standing_Bradford_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Cable Chest Press",
+    "image": "/exercises/Standing_Cable_Chest_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Cable Lift",
+    "image": "/exercises/Standing_Cable_Lift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Cable Wood Chop",
+    "image": "/exercises/Standing_Cable_Wood_Chop/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Calf Raises",
+    "image": "/exercises/Standing_Calf_Raises/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Concentration Curl",
+    "image": "/exercises/Standing_Concentration_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Dumbbell Calf Raise",
+    "image": "/exercises/Standing_Dumbbell_Calf_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Dumbbell Press",
+    "image": "/exercises/Standing_Dumbbell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Dumbbell Reverse Curl",
+    "image": "/exercises/Standing_Dumbbell_Reverse_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Dumbbell Straight Arm Front Delt Raise Above Head",
+    "image": "/exercises/Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Dumbbell Triceps Extension",
+    "image": "/exercises/Standing_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Dumbbell Upright Row",
+    "image": "/exercises/Standing_Dumbbell_Upright_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Elevated Quad Stretch",
+    "image": "/exercises/Standing_Elevated_Quad_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Front Barbell Raise Over Head",
+    "image": "/exercises/Standing_Front_Barbell_Raise_Over_Head/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Gastrocnemius Calf Stretch",
+    "image": "/exercises/Standing_Gastrocnemius_Calf_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Hamstring and Calf Stretch",
+    "image": "/exercises/Standing_Hamstring_and_Calf_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Hip Circles",
+    "image": "/exercises/Standing_Hip_Circles/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Hip Flexors",
+    "image": "/exercises/Standing_Hip_Flexors/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Inner Biceps Curl",
+    "image": "/exercises/Standing_Inner-Biceps_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Lateral Stretch",
+    "image": "/exercises/Standing_Lateral_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Leg Curl",
+    "image": "/exercises/Standing_Leg_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Long Jump",
+    "image": "/exercises/Standing_Long_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Low Pulley Deltoid Raise",
+    "image": "/exercises/Standing_Low-Pulley_Deltoid_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Low Pulley One Arm Triceps Extension",
+    "image": "/exercises/Standing_Low-Pulley_One-Arm_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Military Press",
+    "image": "/exercises/Standing_Military_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Olympic Plate Hand Squeeze",
+    "image": "/exercises/Standing_Olympic_Plate_Hand_Squeeze/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing One Arm Cable Curl",
+    "image": "/exercises/Standing_One-Arm_Cable_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing One Arm Dumbbell Curl Over Incline Bench",
+    "image": "/exercises/Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing One Arm Dumbbell Triceps Extension",
+    "image": "/exercises/Standing_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Overhead Barbell Triceps Extension",
+    "image": "/exercises/Standing_Overhead_Barbell_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Palm In One Arm Dumbbell Press",
+    "image": "/exercises/Standing_Palm-In_One-Arm_Dumbbell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Palms In Dumbbell Press",
+    "image": "/exercises/Standing_Palms-In_Dumbbell_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Palms Up Barbell Behind The Back Wrist Curl",
+    "image": "/exercises/Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Pelvic Tilt",
+    "image": "/exercises/Standing_Pelvic_Tilt/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Rope Crunch",
+    "image": "/exercises/Standing_Rope_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Soleus And Achilles Stretch",
+    "image": "/exercises/Standing_Soleus_And_Achilles_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Toe Touches",
+    "image": "/exercises/Standing_Toe_Touches/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Towel Triceps Extension",
+    "image": "/exercises/Standing_Towel_Triceps_Extension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Standing Two Arm Overhead Throw",
+    "image": "/exercises/Standing_Two-Arm_Overhead_Throw/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Star Jump",
+    "image": "/exercises/Star_Jump/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Step up with Knee Raise",
+    "image": "/exercises/Step-up_with_Knee_Raise/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Step Mill",
+    "image": "/exercises/Step_Mill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Stiff Legged Barbell Deadlift",
+    "image": "/exercises/Stiff-Legged_Barbell_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Stiff Legged Dumbbell Deadlift",
+    "image": "/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Stiff Leg Barbell Good Morning",
+    "image": "/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Stomach Vacuum",
+    "image": "/exercises/Stomach_Vacuum/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Straight Arm Dumbbell Pullover",
+    "image": "/exercises/Straight-Arm_Dumbbell_Pullover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Straight Arm Pulldown",
+    "image": "/exercises/Straight-Arm_Pulldown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Straight Bar Bench Mid Rows",
+    "image": "/exercises/Straight_Bar_Bench_Mid_Rows/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Straight Raises on Incline Bench",
+    "image": "/exercises/Straight_Raises_on_Incline_Bench/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Stride Jump Crossover",
+    "image": "/exercises/Stride_Jump_Crossover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sumo Deadlift",
+    "image": "/exercises/Sumo_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sumo Deadlift with Bands",
+    "image": "/exercises/Sumo_Deadlift_with_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Sumo Deadlift with Chains",
+    "image": "/exercises/Sumo_Deadlift_with_Chains/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Superman",
+    "image": "/exercises/Superman/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Supine Chest Throw",
+    "image": "/exercises/Supine_Chest_Throw/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Supine One Arm Overhead Throw",
+    "image": "/exercises/Supine_One-Arm_Overhead_Throw/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Supine Two Arm Overhead Throw",
+    "image": "/exercises/Supine_Two-Arm_Overhead_Throw/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Suspended Fallout",
+    "image": "/exercises/Suspended_Fallout/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Suspended Push Up",
+    "image": "/exercises/Suspended_Push-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Suspended Reverse Crunch",
+    "image": "/exercises/Suspended_Reverse_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Suspended Row",
+    "image": "/exercises/Suspended_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Suspended Split Squat",
+    "image": "/exercises/Suspended_Split_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Svend Press",
+    "image": "/exercises/Svend_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "T Bar Row with Handle",
+    "image": "/exercises/T-Bar_Row_with_Handle/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Tate Press",
+    "image": "/exercises/Tate_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "The Straddle",
+    "image": "/exercises/The_Straddle/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Thigh Abductor",
+    "image": "/exercises/Thigh_Abductor/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Thigh Adductor",
+    "image": "/exercises/Thigh_Adductor/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Tire Flip",
+    "image": "/exercises/Tire_Flip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Toe Touchers",
+    "image": "/exercises/Toe_Touchers/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Torso Rotation",
+    "image": "/exercises/Torso_Rotation/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Trail Running Walking",
+    "image": "/exercises/Trail_Running_Walking/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Trap Bar Deadlift",
+    "image": "/exercises/Trap_Bar_Deadlift/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Tricep Dumbbell Kickback",
+    "image": "/exercises/Tricep_Dumbbell_Kickback/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Tricep Side Stretch",
+    "image": "/exercises/Tricep_Side_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Triceps Overhead Extension with Rope",
+    "image": "/exercises/Triceps_Overhead_Extension_with_Rope/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Triceps Pushdown",
+    "image": "/exercises/Triceps_Pushdown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Triceps Pushdown   Rope Attachment",
+    "image": "/exercises/Triceps_Pushdown_-_Rope_Attachment/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Triceps Pushdown   V Bar Attachment",
+    "image": "/exercises/Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Triceps Stretch",
+    "image": "/exercises/Triceps_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Tuck Crunch",
+    "image": "/exercises/Tuck_Crunch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Two Arm Dumbbell Preacher Curl",
+    "image": "/exercises/Two-Arm_Dumbbell_Preacher_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Two Arm Kettlebell Clean",
+    "image": "/exercises/Two-Arm_Kettlebell_Clean/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Two Arm Kettlebell Jerk",
+    "image": "/exercises/Two-Arm_Kettlebell_Jerk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Two Arm Kettlebell Military Press",
+    "image": "/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Two Arm Kettlebell Row",
+    "image": "/exercises/Two-Arm_Kettlebell_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Underhand Cable Pulldowns",
+    "image": "/exercises/Underhand_Cable_Pulldowns/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Upper Back Leg Grab",
+    "image": "/exercises/Upper_Back-Leg_Grab/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Upper Back Stretch",
+    "image": "/exercises/Upper_Back_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Upright Barbell Row",
+    "image": "/exercises/Upright_Barbell_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Upright Cable Row",
+    "image": "/exercises/Upright_Cable_Row/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Upright Row   With Bands",
+    "image": "/exercises/Upright_Row_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Upward Stretch",
+    "image": "/exercises/Upward_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "V Bar Pulldown",
+    "image": "/exercises/V-Bar_Pulldown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "V Bar Pullup",
+    "image": "/exercises/V-Bar_Pullup/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Vertical Swing",
+    "image": "/exercises/Vertical_Swing/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Walking Treadmill",
+    "image": "/exercises/Walking_Treadmill/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Ball Hyperextension",
+    "image": "/exercises/Weighted_Ball_Hyperextension/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Ball Side Bend",
+    "image": "/exercises/Weighted_Ball_Side_Bend/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Bench Dip",
+    "image": "/exercises/Weighted_Bench_Dip/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Crunches",
+    "image": "/exercises/Weighted_Crunches/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Jump Squat",
+    "image": "/exercises/Weighted_Jump_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Pull Ups",
+    "image": "/exercises/Weighted_Pull_Ups/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Sissy Squat",
+    "image": "/exercises/Weighted_Sissy_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Sit Ups   With Bands",
+    "image": "/exercises/Weighted_Sit-Ups_-_With_Bands/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Weighted Squat",
+    "image": "/exercises/Weighted_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Grip Barbell Bench Press",
+    "image": "/exercises/Wide-Grip_Barbell_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Grip Decline Barbell Bench Press",
+    "image": "/exercises/Wide-Grip_Decline_Barbell_Bench_Press/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Grip Decline Barbell Pullover",
+    "image": "/exercises/Wide-Grip_Decline_Barbell_Pullover/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Grip Lat Pulldown",
+    "image": "/exercises/Wide-Grip_Lat_Pulldown/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Grip Pulldown Behind The Neck",
+    "image": "/exercises/Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Grip Rear Pull Up",
+    "image": "/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Grip Standing Barbell Curl",
+    "image": "/exercises/Wide-Grip_Standing_Barbell_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Stance Barbell Squat",
+    "image": "/exercises/Wide_Stance_Barbell_Squat/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wide Stance Stiff Legs",
+    "image": "/exercises/Wide_Stance_Stiff_Legs/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wind Sprints",
+    "image": "/exercises/Wind_Sprints/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Windmills",
+    "image": "/exercises/Windmills/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Worlds Greatest Stretch",
+    "image": "/exercises/Worlds_Greatest_Stretch/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wrist Circles",
+    "image": "/exercises/Wrist_Circles/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wrist Roller",
+    "image": "/exercises/Wrist_Roller/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Wrist Rotations with Straight Bar",
+    "image": "/exercises/Wrist_Rotations_with_Straight_Bar/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Yoke Walk",
+    "image": "/exercises/Yoke_Walk/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Zercher Squats",
+    "image": "/exercises/Zercher_Squats/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Zottman Curl",
+    "image": "/exercises/Zottman_Curl/0.jpg",
+    "category": "Fitness"
+  },
+  {
+    "name": "Zottman Preacher Curl",
+    "image": "/exercises/Zottman_Preacher_Curl/0.jpg",
+    "category": "Fitness"
+  }
+]
